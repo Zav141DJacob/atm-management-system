@@ -38,4 +38,5 @@ Shows interest rates depending on the account type.
 
 I had a lot of fun improving this code!
 
-Author: Jaagup Tomingas, 20 years old
+Authors: Jaagup Tomingas, 20 years old
+and whoever gave kood/Jõhvi the amt-management-system code.
